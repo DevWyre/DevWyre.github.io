@@ -23,13 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "Website Development"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa fa-code  #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-code  #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Mobile App Development"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fa fa-mobile 
-      - title: Marketing  #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: Consultation  #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fa fa-bullseye #fab fa-markdown
+        icon: fa fa-comments #fab fa-markdown
+      #- title: General Software Development  #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      #  desc: "Your description here, full **Markdown** support"
+      #  icon: fa fa-folder-open
 
   portfolio:
     title: "Projects"

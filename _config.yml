@@ -22,8 +22,8 @@ description: ""
 author     : 
  
 logo:     #optional, defaults to site title
-  path: assets/img/favicon/logo.jpeg
-  height: 65 #height in px, defaults to 52px
+  path: assets/img/favicon/Devwyre.jpg
+  height: 70 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
