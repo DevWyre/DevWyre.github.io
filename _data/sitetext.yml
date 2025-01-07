@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: #Welcome to DevWyre Studio!
+    title: Potential Unleashed!! #Welcome to DevWyre Studio!
     text: DevWyre
     button: Learn More
     buttonlink: "#services"
