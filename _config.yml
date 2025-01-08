@@ -22,7 +22,7 @@ description: ""
 author     : 
  
 logo:     #optional, defaults to site title
-  path: assets/img/favicon/Dev_white.jpeg
+  path: assets/img/favicon/logo.png
   height: 80 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
