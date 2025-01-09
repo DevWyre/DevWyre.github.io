@@ -21,14 +21,14 @@ en: &DEFAULT_EN
     text: "we offer the following services"
     section: services
     list:
-      - title: "Website Development"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Web Development"
+        desc: "Transform your vision into a stunning online presence with our expert web development services. From sleek, responsive designs to feature-rich platforms, we create websites that are visually appealing, user-friendly, and optimized for performance. Whether it's an e-commerce site or a corporate portal, we ensure your digital space stands out."
         icon: fas fa-code  #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Mobile App Development"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Building intuitive and feature-rich mobile applications for iOS and Android. Whether it's a customer-facing app or an enterprise solution, we create apps that combine functionality with seamless user experiences."
         icon: fa fa-mobile 
       - title: Consultation  #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "We Provide expert guidance to help you navigate the digital landscape. From strategic planning to technology selection, we empower your business to make informed decisions and achieve its goals."
         icon: fa fa-comments #fab fa-markdown
       #- title: General Software Development  #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #  desc: "Your description here, full **Markdown** support"
@@ -36,7 +36,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Take a look at our Recent and Upcoming Projects!!"
     section: portfolio
     closebutton: "Close Project"
 
@@ -72,9 +72,9 @@ en: &DEFAULT_EN
 #    end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Our Mission"
+    text: #"our Mission"
+    body: "**DevWyre** is committed to empowering businesses to thrive in the digital era through state-of-the-art software development, robust IT infrastructure, insightful data analysis, and compelling media creation"
     section: about
 
   clients:
@@ -97,13 +97,13 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Meet the passionate professionals driving our success."
+    subtext: "Behind every great achievement is a dedicated team. Our talented experts bring creativity, innovation, and commitment to everything we do. From developers to strategists, we work together to deliver exceptional results for our clients. Markdown supported."
     section: team
     people:
       - name: "Slyvester Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        role: "Founder"
+        image: assets/img/team/Slyfox.png
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -112,7 +112,7 @@ en: &DEFAULT_EN
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Bingchilling Parker"
-        role: "Project Manager"
+        role: "Project Manager/Founder"
         image: assets/img/team/2.jpg
         social:
 #          - url: https://twitter.com
@@ -123,7 +123,17 @@ en: &DEFAULT_EN
 #            icon: fab fa-linkedin-in
       - name: "K93 Perterson"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/SP.jpg
+        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+      - name: "Divine Odin"
+        role: "IT Operation Manager/Founder"
+        image: assets/img/team/SP.jpg
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -134,7 +144,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "email us at devwyre@email.com or call 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
