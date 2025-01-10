@@ -102,7 +102,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Slyvester Garland"
-        role: "Founder"
+        role: "Founder/Designer"
         image: assets/img/team/Slyfox.png
         social:
 #          - url: https://twitter.com
@@ -111,9 +111,9 @@ en: &DEFAULT_EN
 #            icon: fab fa-facebook-f
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
-      - name: "Bingchilling Parker"
+      - name: "Rotex Parker"
         role: "Project Manager/Founder"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/RX.png
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -121,9 +121,9 @@ en: &DEFAULT_EN
 #            icon: fab fa-facebook-f
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
-      - name: "K93 Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/SP.jpg
+      - name: "Emmanuel Perterson"
+        role: "Lead Developer/Founder"
+        image: assets/img/team/K.jpg
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -132,7 +132,7 @@ en: &DEFAULT_EN
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Divine Odin"
-        role: "IT Operation Manager/Founder"
+        role: "IT Operations/Founder"
         image: assets/img/team/SP.jpg
         social:
 #          - url: https://twitter.com
